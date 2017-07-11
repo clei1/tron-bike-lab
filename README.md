@@ -19,7 +19,8 @@
 * Use the `text` P5 command to write the position of the tron bike at the top of the screen. You can read more about this command in the <a href="https://p5js.org/reference/">Typography Section of the P5 documentation</a>
 
 * Create a race!
-  **1.** Set the speed to a random number between 1 and 10 upon initialization.
+ 
+ **1.** Set the speed to a random number between 1 and 10 upon initialization.
 
   **2.** Create two tron bikes, and make them race across the screen (with each bike's speed initializing to a random number so the race outcome isn't predictable!)
 
